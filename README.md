@@ -47,10 +47,15 @@ For macOS or Linux, use the terminal: ssh pi@raspberrypi.local (replace raspberr
 Download and run the installation script for Project Aidan:
 
 bash
-Copy code
-wget https://raw.githubusercontent.com/AstechUK/ProjectAidan/main/install.sh
-chmod +x install.sh
-./install.sh
+
+Copy code:
+
+
+    wget https://raw.githubusercontent.com/AstechUK/ProjectAidan/main/install.sh
+    chmod +x install.sh
+    ./install.sh
+
+    
 The script will automate the setup process, including installing necessary dependencies and configuring the system to launch Project Aidan on startup.
 
  # Step 3: Using Project Aidan
