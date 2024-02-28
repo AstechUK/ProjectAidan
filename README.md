@@ -1,7 +1,7 @@
 # ProjectAidan
 Repository for Project Aidan parts washer system.
 
-Installation Guide for Project Aidan
+Software Installation Guide for Project Aidan
 
 
   
@@ -9,17 +9,20 @@ Installation Guide for Project Aidan
 
 This guide provides step-by-step instructions for installing and setting up Project Aidan on a Raspberry Pi Zero using Raspberry Pi OS Lite. The project is designed to control a NEMA17 motor for mechanical operations, utilizing a user-friendly interface on a Raspberry Pi with an attached 3.5-inch touchscreen.
 
- Prerequisites
+ Prerequisites(Equipment needed)
 
     Raspberry Pi Zero W/WH (with internet connectivity)
     3.5-inch RPi LCD (A) touchscreen
     Micro SD card (8 GB or larger recommended)  
     External computer with SD card slot or adapter
     Power supply for Raspberry Pi
-    Step 1: Flash Raspberry Pi OS Lite with Wi-Fi Configuration
-    Download and Install Raspberry Pi Imager: Visit the Raspberry Pi Imager download page 
-    and download the imager for your operating system. Install the imager following the 
-    provided instructions.
+    Nema 17
+    TMC2208 driver
+
+Step 1: Flash Raspberry Pi OS Lite with Wi-Fi Configuration
+Download and Install Raspberry Pi Imager: Visit the Raspberry Pi Imager download page 
+and download the imager for your operating system. Install the imager following the 
+provided instructions.
 
  Flash Raspberry Pi OS Lite and Configure Wi-Fi:
 
